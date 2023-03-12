@@ -1,2 +1,2 @@
-kr14nov@gmail.com   test@123
-kr14nov@outlook.com   test@1234
+kr14nov@gmail.com test@123
+kr14nov@outlook.com test@1234
