@@ -1,2 +1,12 @@
-kr14nov@gmail.com test@123
-kr14nov@outlook.com test@1234
+{
+  users: [
+    {
+      username: "karan@gmail.com",
+      password: Test@123,
+    },
+    {
+      username: "karan2@gmail.com",
+      password: Test@1234,
+    }
+  ],
+}
