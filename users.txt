@@ -1,9 +1,6 @@
 {
 	"users": [{
-		"username": "karan@gmail.com",
+		"username": "satyanand.devipriya",
 		"password": "Test@123"
-	}, {
-		"username": "karan2@gmail.com",
-		"password": "Test@12345"
 	}]
 }
