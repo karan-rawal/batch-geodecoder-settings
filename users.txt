@@ -5,8 +5,8 @@
       "password": "Test@123"
     }
     {
-      username: "karan2@gmail.com",
-      password: "Test@1234"
+      "username": "karan2@gmail.com",
+      "password": "Test@1234"
     }
   ]
 }
