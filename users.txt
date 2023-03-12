@@ -1,12 +1,9 @@
 {
-  "users": [
-    {
-      "username": "karan@gmail.com",
-      "password": "Test@123"
-    }
-    {
-      "username": "karan2@gmail.com",
-      "password": "Test@1234"
-    }
-  ]
+	"users": [{
+		"username": "karan@gmail.com",
+		"password": "Test@123"
+	}, {
+		"username": "karan2@gmail.com",
+		password: "Test@1234"
+	}]
 }
